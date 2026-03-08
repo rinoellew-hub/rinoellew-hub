@@ -16,7 +16,8 @@ My personal projects might involve a myriad of things; for example, game develop
 
 <ul>
   <li> 🦖 My favourite movie is Jurassic Park</li>
-  <li> 🎮 My favourite game of all time is Baldur's Gate 3</li>
+  <li> 🎮 My favourite game of all time is Pokemon Heart Gold</li>
+  <li> 🎮 My current favourite game is Elden Ring </li>
   <li> 🏀⚾️ I love basketball and baseball </li>
   <li> 🐈‍⬛ I have a cat named Churro </li>
 </ul>
