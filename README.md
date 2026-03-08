@@ -2,7 +2,7 @@
 
 👨🏼‍💻 Bioinformatics student at Langara College developing inside the industry. </br>
 
-I mostly do course assignments involving code work. </br> 
+Most of my code work is through assignments that I don't think can legally be shown here. </br> 
 
 My personal projects might involve a myriad of things; for example, game development, sports analysis and biological research. </br>
 
